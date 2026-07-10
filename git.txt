@@ -1,0 +1,31 @@
+What I learnt today about git and GitHub by watching Nick White youtube video.
+
+Git is something in the computer that is like a memory card for code that stores the progress, different versions, and the history of the code. It is provided with mac inbuilt whereas in Windows we have to install git on our own.
+
+Git saves the programs on our local computer so not accessed through the internet.
+
+These are a few basic commands that git has.
+
+git init (is used to initialize an empty git repository(folder))
+
+git add (is used to add the changes, usually (git add .) to add all changes)
+
+git commit -m ' ' (this is used to commit the updated changes with a msg to understand what is different in the current version)
+
+git log (is used to see the versions where each has a hash code that can be used to create a branch and have or use that version there (this i am not so sure about which I might understand more by using it))
+
+git checkout the hashcode (this has the version that exisits in the hashcode)
+
+
+GitHub is an internet website used to save your porjects so others can view and go changes if they want to
+
+git branch (when others want to go change and not let it affect your master branch they branch out add or modify the code)
+
+git checkout -b name (the new branch can be see in the terminal with the command line)(i think this can also be used to add this branch to the master)
+
+when u have done changes it git and have to put on github push is done.
+
+git pull origin master (but when u have done changes in github and want to save them on our local git  pull is done)
+
+
+ 
